@@ -1,0 +1,23 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+# What if I add text
+
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+[google](https://www.google.com)
+
+<img src="images/image.jpg" style="width:75%">
+
+
+# about me
+[About me](about.html)
+stuf
