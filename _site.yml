@@ -10,7 +10,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<clarkbrendenj@gmail.com>
     - icon: fa-github fa-lg
-      href: https://github.com/clarkbrendenj/
+      href: http://github.com/clarkbrendenj/
 output:
   html_document:
     theme: cosmo
